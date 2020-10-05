@@ -1,6 +1,5 @@
 # Chicago Crime Data from 2001 to present
 
-
 This repo contains a data set from the Chicago Police department for crimes committed between 2001 to the present(with the exception of murders where data exists for each victim). This project is dedicated to doing some cool data analysis and visualization on this already curated dataset.
 
 Data visualizations were created through the super awesome Python library **folium**, which I highly recommend to make beautiful map visualizations.
